@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import HomeComponent from './src/features/home/components/home-screen.component';
+import HomeComponent from './features/home/components/home-screen.component';
 
 export default class App extends React.Component {
   render() {
